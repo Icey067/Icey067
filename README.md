@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/UTGFbTzP3wD2A/giphy.gif" width="500">
+  <img src="https://raw.githubusercontent.com/sahadeb-saha/sahadeb-saha/master/assets/images/coding.gif" width="500">
 </p>
 
 <br>
