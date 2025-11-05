@@ -6,5 +6,6 @@ I'm a **Machine Learning & Android Developer** based in India, passionate about 
 * 📱 **On the mobile side:** I build modern, native apps using Kotlin and Jetpack Compose, like my `Android-Notes-App` , `Minesweeper` and `Fullstack-Weather-App`.
 * 🚀 **I'm currently** learning more and am open to new opportunities and collaborations.
 <br>
+
 ### 📫 Let's Connect
 * **LinkedIn:** [in/icey07](https://www.linkedin.com/in/icey07/)
