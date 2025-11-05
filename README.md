@@ -3,7 +3,7 @@
 I'm a **Machine Learning & Android Developer** based in India, passionate about building intelligent and user-friendly applications.
 
 * 🧠 **On the ML side:** I'm experienced with Python, TensorFlow, and Keras, building models like the `Cat-Dog-Image-Classifier` you can see in my pins.
-* 📱 **On the mobile side:** I build modern, native apps using Kotlin and Jetpack Compose, like my `Android-Notes-App` and `Minesweeper` game.
+* 📱 **On the mobile side:** I build modern, native apps using Kotlin and Jetpack Compose, like my `Android-Notes-App` , `Minesweeper` and `Fullstack-Weather-App`.
 * 🚀 **I'm currently** learning more and am open to new opportunities and collaborations.
 
 <br>
