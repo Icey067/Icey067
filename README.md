@@ -2,14 +2,8 @@
   Hi there, I'm Aaditya 👋
 </h1>
 <h3 align="center">
-  A Machine Learning & Software Developer from India
+  A Machine Learning & Android Developer from New Delhi, India
 </h3>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sahadeb-saha/sahadeb-saha/master/assets/images/coding.gif" width="500">
-</p>
 
 <br>
 
