@@ -7,8 +7,13 @@ I'm Aaditya, a **Software Developer** based in India.
 * 📱 **Software Development:** I build modern, native apps using Kotlin and Jetpack Compose, like my [Android-Notes-App](https://github.com/Icey067/Android-Notes-App), [Minesweeper](https://github.com/Icey067/Minesweeper-Android-App), and [Fullstack-Weather-App](https://github.com/Icey067/Fullstack-Weather-App).
 
 * 💻 **Full-Stack Development:** I enjoy creating responsive web apps using the MERN stack (React, Node.js) like [InspireX](https://github.com/Icey067/InspireX), a random quote generator.
+  
+* 🤝  **Open Source Contributions:**
 
-* 🚀 I'm currently learning more and am open to new opportunities and collaborations.
+    * **[Hover-sandwich](https://github.com/Icey067/hover-sandwich)** - Added a dark mode toggle feature.
+  
+</br>
+🚀 I'm currently learning more and am open to new opportunities and collaborations.
 
 ### Let's Connect
 
