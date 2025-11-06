@@ -1,5 +1,3 @@
-# Hey there, I'm Aaditya 👋
-
 I'm a **Software Developer** based in India, passionate about building intelligent and user-friendly applications across web and mobile.
 
 * 🧠 **On the ML side:** I have experience with Python, TensorFlow, and Keras, building models like the [Cat-Dog-Image-Classifier](https://github.com/Icey067/Cat-Dog-Image-Classifier) you can see in my pins.
