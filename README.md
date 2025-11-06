@@ -8,11 +8,8 @@ I'm Aaditya, a **Software Developer** based in India.
 
 * 💻 **Full-Stack Development:** I enjoy creating responsive web apps using the MERN stack (React, Node.js) like [InspireX](https://github.com/Icey067/InspireX), a random quote generator.
   
-* 🤝  **Open Source Contributions:**
+* 🤝  **Open Source Contributions:** I enjoy collaborating on projects like [Hover-sandwich](https://github.com/Icey067/hover-sandwich).
 
-    * **[Hover-sandwich](https://github.com/Icey067/hover-sandwich)** - Added a dark mode toggle feature.
-  
-</br>
 🚀 I'm currently learning more and am open to new opportunities and collaborations.
 
 ### Let's Connect
