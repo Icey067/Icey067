@@ -4,7 +4,7 @@ I'm a **Software Developer** based in India, passionate about building intellige
 
 * 🧠 **On the ML side:** I have experience with Python, TensorFlow, and Keras, building models like the [Cat-Dog-Image-Classifier](https://github.com/Icey067/Cat-Dog-Image-Classifier) you can see in my pins.
 
-* 📱 **On the mobile side:** I build modern, native apps using Kotlin and Jetpack Compose, like my [Android-Notes-App](https://github.com/Icey067/Android-Notes-App), [Minesweeper](https://github.com/Icey067/Minesweeper), and [Fullstack-Weather-App](https://github.com/Icey067/Fullstack-Weather-App).
+* 📱 **On the mobile side:** I build modern, native apps using Kotlin and Jetpack Compose, like my [Android-Notes-App](https://github.com/Icey067/Android-Notes-App), [Minesweeper](https://github.com/Icey067/Minesweeper-Android-App), and [Fullstack-Weather-App](https://github.com/Icey067/Fullstack-Weather-App).
 
 * 💻 **On the full-stack side:** I enjoy creating responsive web apps using the MERN stack (React, Node.js) like [InspireX](https://github.com/Icey067/InspireX), a random quote generator.
 
