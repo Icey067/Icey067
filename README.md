@@ -2,13 +2,13 @@
 
 I'm Aaditya, a **Software Developer** based in India.
 
-* 🧠 **Machine Learning:** I have experience with Python, TensorFlow, and Keras, building models like the [Cat-Dog-Image-Classifier](https://github.com/Icey067/Cat-Dog-Image-Classifier).
+* 🧠 **Machine Learning:** I have experience with Python, TensorFlow, and Keras, building models like the [Cat-Dog-Image-Classifier](https://github.com/Icey067/Cat-Dog-Image-Classifier) & [Concentration-Tracker](https://github.com/Icey067/Concentration-Tracker).
 
 * 📱 **Software Development:** I build modern, native apps using Kotlin and Jetpack Compose, like my [Android-Notes-App](https://github.com/Icey067/Android-Notes-App), [Minesweeper](https://github.com/Icey067/Minesweeper-Android-App), and [Fullstack-Weather-App](https://github.com/Icey067/Fullstack-Weather-App).
 
 * 💻 **Full-Stack Development:** I enjoy creating responsive web apps using the MERN stack (React, Node.js) like [InspireX](https://github.com/Icey067/InspireX), a random quote generator.
   
-* 🤝  **Open Source Contributions:** I enjoy collaborating on projects like [Hover-sandwich](https://github.com/Icey067/hover-sandwich) & [Concentration-Tracker](https://github.com/Icey067/Concentration-Tracker).
+* 🤝  **Open Source Contributions:** I enjoy collaborating on projects like [Hover-sandwich](https://github.com/Icey067/hover-sandwich).
 
 🚀 I'm currently learning more and am open to new opportunities and collaborations.
 
