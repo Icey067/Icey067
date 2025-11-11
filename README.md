@@ -10,8 +10,6 @@ I'm Aaditya, a **Software Developer** based in India.
   
 * 🤝 **Open Source Contributions:** I enjoy collaborating on projects like [Hover-sandwich](https://github.com/Icey067/hover-sandwich).
 
-* ☕ **When I’m not building apps, I’m probably doing some DSA or debugging my own brain 😅** 
-
 🚀 I'm currently learning more and am open to new opportunities and collaborations.
 
 ### Let's Connect
