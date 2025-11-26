@@ -9,6 +9,8 @@ I'm Aaditya, a **Software Developer** based in India.
 * 💻 **Full-Stack Development:** I enjoy creating responsive web apps using the MERN stack (React, Node.js) like [InspireX](https://github.com/Icey067/InspireX), a random quote generator.
 
 * </> **Python:** I made apps using Python Libraries like pygame in projects like [Pokemon-Trainer-Legacy](https://github.com/Icey067/Pokemon-Trainer-Legacy).
+
+* </> **Kotlin:** Made Android apps such as [KOrunner-Android](https://github.com/Icey067/KOrunner-Android).
   
 * 🤝 **Open Source Contributions:** I enjoy collaborating on projects like [Grin-Retro-Game](https://github.com/Icey067/Grin-Retro-Game), [Hover-sandwich](https://github.com/Icey067/hover-sandwich), [Brave-Browser](https://github.com/Icey067/brave-browser.git).
 
