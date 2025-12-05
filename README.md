@@ -10,7 +10,7 @@ I'm Aaditya, a **Software Developer** based in India.
 
 * </> **Python:** I made apps using Python Libraries like pygame and numpy in projects like [Pokemon-Trainer-Legacy](https://github.com/Icey067/Pokemon-Trainer-Legacy).
   
-* 🤝 **Open Source Contributions:** I enjoy collaborating on projects like [Grin-Retro-Game](https://github.com/Icey067/Grin-Retro-Game), [Hover-sandwich](https://github.com/Icey067/hover-sandwich), [Brave-Browser](https://github.com/Icey067/brave-browser.git).
+* 🤝 **Open Source Contributions:** I enjoy collaborating on projects like [Grin-Retro-Game](https://github.com/Icey067/Grin-Retro-Game), [Hover-sandwich](https://github.com/Icey067/hover-sandwich), [Brave-Browser](https://github.com/Icey067/brave-browser.git), [Face-Security-System](https://github.com/Icey067/Face-Security-System.git).
 
 🚀 I'm currently learning more and am open to new opportunities and collaborations.
 
