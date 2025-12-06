@@ -6,7 +6,7 @@ I'm Aaditya, a **Software Developer** based in India.
 
 * 📱 **Software Development:** I build modern, native apps using Kotlin and Jetpack Compose, like my [Android-Notes-App](https://github.com/Icey067/Android-Notes-App), [Minesweeper-App](https://github.com/Icey067/Minesweeper-Android-App), [Fullstack-Weather-App](https://github.com/Icey067/Fullstack-Weather-App) & [KOrunner-Android](https://github.com/Icey067/KOrunner-Android).
 
-* 💻 **Full-Stack Development:** I enjoy creating responsive web apps using the MERN stack (React, Node.js) like [InspireX](https://github.com/Icey067/InspireX), a random quote generator.
+* 💻 **Full-Stack Development:** I enjoy creating responsive web apps using the MERN stack (React, Node.js) like [InspireX](https://github.com/Icey067/InspireX), [To-Do-Web-App](https://github.com/Icey067/To-Do-Web-App.git).
 
 * </> **Python:** I made apps using Python Libraries like pygame and numpy in projects like [Pokemon-Trainer-Legacy](https://github.com/Icey067/Pokemon-Trainer-Legacy).
   
