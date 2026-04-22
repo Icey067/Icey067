@@ -6,7 +6,7 @@ I'm Aaditya, a **Software Developer** based in India.
 * 📱 **Android Development:** I build modern native apps using Kotlin and Jetpack Compose — [Android-Notes-App](https://github.com/Icey067/Android-Notes-App), [Codev-Viewkey-Launcher](https://github.com/Icey067/Codev-Viewkey-launcher) (a privacy-first URL launcher), [Minesweeper-App](https://github.com/Icey067/Minesweeper-Android-App) & [KOrunner-Android](https://github.com/Icey067/KOrunner-Android).
 * 💻 **Full-Stack Development:** I create responsive web apps using the MERN stack — [InspireX](https://github.com/Icey067/InspireX), [To-Do-Web-App](https://github.com/Icey067/To-Do-Web-App) & more.
 * 🐍 **Python:** I automate and build fun tools using Python — [Discord-Auto-Status-Changer](https://github.com/Icey067/Discord-auto-status-changer), [Discord-AFK-Responder](https://github.com/Icey067/Discord-AFK-Responder) & [Pokemon-Trainer-Legacy](https://github.com/Icey067/Pokemon-Trainer-Legacy).
-* 🤝 **Open Source:** I enjoy collaborating on projects like [Grin-Retro-Game](https://github.com/Icey067/Grin-Retro-Game), [Face-Security-System](https://github.com/Icey067/Face-Security-System) & [Brave-Browser](https://github.com/Icey067/brave-browser).
+* 🤝 **Open Source:** I enjoy collaborating on projects like [Grin-Retro-Game](https://github.com/Icey067/Grin-Retro-Game) & [Face-Security-System](https://github.com/Icey067/Face-Security-System).
 
 🚀 I'm currently learning more and am open to new opportunities and collaborations.
 
