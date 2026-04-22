@@ -11,5 +11,5 @@ I'm Aaditya, a **Software Developer** based in India.
 🚀 I'm currently learning more and am open to new opportunities and collaborations.
 
 ### Let's Connect
-* 🌐 **Portfolio:** [icey-portfolio.vercel.app](https://icey-portfolio.vercel.app)
+* **Portfolio:** [icey-portfolio.vercel.app](https://icey-portfolio.vercel.app)
 * **LinkedIn:** [in/icey07](https://www.linkedin.com/in/icey07/)
