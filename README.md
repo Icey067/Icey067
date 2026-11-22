@@ -1,49 +1,67 @@
-### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25px">
-I'm Aaditya (Icey), a **Software & MLOps Engineer** based in India, specializing in low-latency distributed systems, real-time MLOps pipelines, and high-performance native applications. 
+<div align="center">
 
-I build fault-tolerant systems and production-grade AI infrastructure, and I actively compete in technical hackathons.
+# Hi, I'm Aaditya 👋
 
----
+**Software Engineer · ML Systems · Android · Full-Stack**
 
-### ⚡ Featured Flagship Systems
-- 🛡️ **[Sentinel: Real-Time MLOps Anomaly Detection Engine](https://github.com/Icey067/realtime-mlops-anomaly-detection):** An enterprise-grade, sub-15ms streaming financial fraud & outlier detection engine.
-  - **High-Throughput Streaming:** Ingests high-frequency transaction streams via **Redis Streams** with consumer groups and Dead-Letter Queue (DLQ) fault tolerance.
-  - **Low-Latency Inference:** Quantized a **PyTorch Autoencoder** to **ONNX Runtime Dynamic INT8**, driving single-sample CPU inference down to **`<0.1ms`**.
-  - **Benchmarked SLA:** Measured p95 end-to-end pipeline latency at **`2.09ms`** (beating the strict `<15ms` SLA) at **540+ RPS** load with 0% failure rate.
-  - **Automated Drift Engine:** Monitors statistical data drift using **Evidently AI** (2-sample KS-tests & Wasserstein distance) with zero-downtime hot-reloading.
-  - **Observability & UI:** Containerized multi-stage Docker stack exposing **Prometheus** metrics, **Grafana** dashboards, and a live **React 19** telemetry UI.
+I build AI-powered systems end to end: streaming ML pipelines, native Android apps and cloud-backed web platforms. I also compete in hackathons.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-icey--portfolio.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://icey-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-icey07-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/icey07/)
+[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
-### 🏆 Featured Hackathon Wins
-- 🏎️ **[Silent Co-Driver](https://github.com/Icey067/Silent-Co-Driver-Prototype) (4th Place - GrandPrix AI Finals):** An enterprise-grade, edge-to-cloud F1 pit-wall dashboard. Architected a hybrid pipeline using Node.js, Python (Librosa DSP), and Gemini 3.7 Flash Multimodal AI to extract real-time vocal stress biomarkers and generate tactical directives. 
-- 📍 **[Lumina / CampusFind](https://github.com/Icey067/Lumina) (1st Place - GDG Hackathon):** An AI-powered lost-and-found portal. Integrated Gemini AI and TomTom Maps with a React/TypeScript/Firebase stack for real-time geolocation and multimodal missing-item matching.
+📍 New Delhi, India &nbsp;·&nbsp; 💼 Open to internships, full-time roles and collaborations
+
+</div>
 
 ---
 
-### ⚙️ Core Engineering & Native Apps
-- 👾 **[KOrunner-Android](https://github.com/Icey067/KOrunner-Android):** A high-performance infinite runner engineered natively in Kotlin. Bypassed heavy third-party engines to build a custom game loop and AABB collision physics engine directly on Android's `SurfaceView` for a locked 60 FPS.
-- 🎮 **[Pokemon-Trainer-Legacy](https://github.com/Icey067/Pokemon-Trainer-Legacy):** A retro-style Pokémon battle engine built from scratch in Python/Pygame, featuring complex Object-Oriented Programming (OOP) for type-effectiveness math and enemy AI move calculation.
-- 🛡️ **[Codev-Viewkey-Launcher](https://github.com/Icey067/Codev-Viewkey-launcher):** A privacy-first, lightweight URL launcher for Android built with Jetpack Compose.
+## ⭐ Flagship: Sentinel, Real-Time Anomaly Detection
+
+**[realtime-mlops-anomaly-detection](https://github.com/Icey067/realtime-mlops-anomaly-detection)** is a streaming anomaly detection service for financial transactions, with the full MLOps loop around the model.
+
+- **Model:** PyTorch autoencoder trained only on normal transactions (unsupervised), exported to ONNX with dynamic INT8 quantization
+- **Accuracy:** ROC-AUC **0.94** on the Kaggle credit-card fraud dataset, with 81% recall at the calibrated threshold (trade-offs documented in the repo)
+- **Ingestion:** Redis Streams with consumer groups, payload validation and a dead-letter queue
+- **Serving:** FastAPI with single and batch prediction, health/readiness probes and Prometheus metrics
+- **MLOps:** statistical drift monitoring (KS-test + Wasserstein distance) that triggers a retraining pipeline tracked in MLflow
+- **Ops:** Docker Compose stack with Grafana dashboards and a React telemetry UI
+- **Performance:** Locust load test on the `/predict` endpoint, 540+ RPS on a local machine (reproducible script in `benchmarks/`)
+
+`Python` `PyTorch` `ONNX Runtime` `FastAPI` `Redis` `Docker` `Prometheus` `Grafana` `React`
 
 ---
 
-### 🧠 Computer Vision & Full-Stack
-- 👁️ **[Focus-Monitor](https://github.com/Icey067/Focus-Monitor):** A real-time attention tracking pipeline built with OpenCV and MediaPipe. Computes facial landmarks and head pose estimation to calculate user focus levels for proctoring environments.
-- ☁️ **[Full-Stack Weather App](https://github.com/Icey067/Weather-App):** A complete system bridging a native Kotlin Android frontend with a custom Python/Flask REST API backend.
+## 🏆 Hackathons
 
----
+| Result | Project | Details |
+|---|---|---|
+| 🥇 **1st, GDG Hackathon** | [**Lumina**](https://github.com/Icey067/Lumina) | AI lost-and-found platform. Gemini analyses item photos, TomTom Maps handles location, and a matching engine links lost and found reports. React, TypeScript, Firebase. [Live demo](https://campusfind-7a340.web.app) |
+| 🏎️ **4th, GrandPrix AI Finals** | [**Silent Co-Driver**](https://github.com/Icey067/Silent-Co-Driver-Prototype) | Pit-wall prototype that extracts stress biomarkers (pitch, energy) from driver radio with Python DSP and combines them with Gemini audio analysis. Node.js, React, TypeScript. |
 
-### 🛠️ Technical Skill Matrix
-```text
-Languages     : Python 3.11+, Kotlin, TypeScript, C++, SQL, Bash
-MLOps & AI    : PyTorch, ONNX Runtime, Evidently AI, MLflow, OpenCV, MediaPipe, Scikit-Learn
-Backend & Ops : FastAPI, Asyncio, Redis Streams, Docker, Docker Compose, Prometheus, Grafana
-Frontend & UI : React 19, Jetpack Compose, Tailwind CSS, Recharts, Firebase
-```
+## 🚀 More Projects
 
-🚀 Always building, optimizing, and looking for the next technical challenge. Open to new opportunities and collaborations!
+- 🏁 [**TrackShift**](https://github.com/Icey067/TrackShiftPrototype): F1 telemetry and race-strategy engine that separates tire degradation from dirty air, fuel burn and track grip to predict pit windows.
+- 🧪 [**Product Synthesis Studio**](https://github.com/Icey067/product-synthesis-studio): local-first AI pipeline that turns market research into ebooks and guides using Ollama, SQLite and Streamlit, with no cloud API keys.
+- 🎯 [**SkillScopia**](https://github.com/Icey067/SkillScopia-Automated-ATS-Interview-Prep-System): career-prep platform with local-LLM resume entity extraction and timed technical mock interviews.
+- 👾 [**KOrunner-Android**](https://github.com/Icey067/KOrunner-Android): Android game in Kotlin with a custom physics loop and no game engine.
+- 👁️ [**Focus-Monitor**](https://github.com/Icey067/Focus-Monitor): real-time attention tracking with OpenCV and MediaPipe (face, eyes and head pose).
+- ☁️ [**Fullstack-Weather-App**](https://github.com/Icey067/Fullstack-Weather-App): Kotlin Android client with a Python/Flask REST backend.
 
-### Let's Connect
-* **Portfolio:** [icey-portfolio.vercel.app](https://icey-portfolio.vercel.app)
-* **LinkedIn:** [in/icey07](https://www.linkedin.com/in/icey07/)
+## 🛠️ Tech Stack
+
+| | |
+|---|---|
+| **Languages** | Python · Kotlin · TypeScript · JavaScript · SQL |
+| **ML & Data** | PyTorch · ONNX Runtime · MLflow · OpenCV · MediaPipe · Ollama · Gemini API |
+| **Backend & Infra** | FastAPI · Flask · Node.js · Express · Redis Streams · Docker · Prometheus · Grafana |
+| **Frontend & Mobile** | React · Jetpack Compose · Tailwind CSS · Firebase |
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Icey067&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icey067&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+*Building something interesting? I'd love to hear about it.*
+
+</div>
